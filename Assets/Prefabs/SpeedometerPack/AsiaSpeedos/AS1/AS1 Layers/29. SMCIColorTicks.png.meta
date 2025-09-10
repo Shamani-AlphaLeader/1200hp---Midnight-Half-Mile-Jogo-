@@ -1,0 +1,1993 @@
+fileFormatVersion: 2
+guid: fbf628dc56cbf8c49a987f107435221e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3198700490491107762
+    second: 29. SMCIColorTicks_0
+  - first:
+      213: 7727354796307766077
+    second: 29. SMCIColorTicks_1
+  - first:
+      213: 143152272941082637
+    second: 29. SMCIColorTicks_2
+  - first:
+      213: -5961581254935574302
+    second: 29. SMCIColorTicks_3
+  - first:
+      213: 2136315595621413197
+    second: 29. SMCIColorTicks_4
+  - first:
+      213: 5500524003378604326
+    second: 29. SMCIColorTicks_5
+  - first:
+      213: 7623479961779577307
+    second: 29. SMCIColorTicks_6
+  - first:
+      213: -2657003874941089063
+    second: 29. SMCIColorTicks_7
+  - first:
+      213: -2752199618550670125
+    second: 29. SMCIColorTicks_8
+  - first:
+      213: -1322688611718444462
+    second: 29. SMCIColorTicks_9
+  - first:
+      213: 5909176728796581272
+    second: 29. SMCIColorTicks_10
+  - first:
+      213: 1705957572062336725
+    second: 29. SMCIColorTicks_11
+  - first:
+      213: 2308396266835090814
+    second: 29. SMCIColorTicks_12
+  - first:
+      213: 7646548687312547843
+    second: 29. SMCIColorTicks_13
+  - first:
+      213: -1231280353134896600
+    second: 29. SMCIColorTicks_14
+  - first:
+      213: -7907825200352286007
+    second: 29. SMCIColorTicks_15
+  - first:
+      213: 1492215291654110726
+    second: 29. SMCIColorTicks_16
+  - first:
+      213: -4121121256046480115
+    second: 29. SMCIColorTicks_17
+  - first:
+      213: 8821969904540032869
+    second: 29. SMCIColorTicks_18
+  - first:
+      213: -7416726980452441845
+    second: 29. SMCIColorTicks_19
+  - first:
+      213: -5077340814919976487
+    second: 29. SMCIColorTicks_20
+  - first:
+      213: -6581669815163123648
+    second: 29. SMCIColorTicks_21
+  - first:
+      213: -5869064014730551965
+    second: 29. SMCIColorTicks_22
+  - first:
+      213: -8238935133668019100
+    second: 29. SMCIColorTicks_23
+  - first:
+      213: -1355232414399298400
+    second: 29. SMCIColorTicks_24
+  - first:
+      213: 4314015851255344547
+    second: 29. SMCIColorTicks_25
+  - first:
+      213: -850966283216898891
+    second: 29. SMCIColorTicks_26
+  - first:
+      213: 9204740919048243662
+    second: 29. SMCIColorTicks_27
+  - first:
+      213: 220138927118039458
+    second: 29. SMCIColorTicks_28
+  - first:
+      213: -6400312205124259672
+    second: 29. SMCIColorTicks_29
+  - first:
+      213: 3106369004195695457
+    second: 29. SMCIColorTicks_30
+  - first:
+      213: -2535966895242688717
+    second: 29. SMCIColorTicks_31
+  - first:
+      213: 1401049277661408181
+    second: 29. SMCIColorTicks_32
+  - first:
+      213: 3980396850960229498
+    second: 29. SMCIColorTicks_33
+  - first:
+      213: 8841754869062532937
+    second: 29. SMCIColorTicks_34
+  - first:
+      213: -5295033187951623831
+    second: 29. SMCIColorTicks_35
+  - first:
+      213: 443533552178838465
+    second: 29. SMCIColorTicks_36
+  - first:
+      213: -82123384125250571
+    second: 29. SMCIColorTicks_37
+  - first:
+      213: -3063042727669441539
+    second: 29. SMCIColorTicks_38
+  - first:
+      213: -2790104722397290100
+    second: 29. SMCIColorTicks_39
+  - first:
+      213: -3575988001824268999
+    second: 29. SMCIColorTicks_40
+  - first:
+      213: 5084831017638300138
+    second: 29. SMCIColorTicks_41
+  - first:
+      213: -6474074284134523953
+    second: 29. SMCIColorTicks_42
+  - first:
+      213: -3222053297111637367
+    second: 29. SMCIColorTicks_43
+  - first:
+      213: 6866285094918631904
+    second: 29. SMCIColorTicks_44
+  - first:
+      213: -5228650041952736162
+    second: 29. SMCIColorTicks_45
+  - first:
+      213: 1074212966178638298
+    second: 29. SMCIColorTicks_46
+  - first:
+      213: 2836911228053490429
+    second: 29. SMCIColorTicks_47
+  - first:
+      213: 8088145075963915433
+    second: 29. SMCIColorTicks_48
+  - first:
+      213: 8916547137979297294
+    second: 29. SMCIColorTicks_49
+  - first:
+      213: -7072237798616818865
+    second: 29. SMCIColorTicks_50
+  - first:
+      213: 7111943584134612073
+    second: 29. SMCIColorTicks_51
+  - first:
+      213: -7229875590748574445
+    second: 29. SMCIColorTicks_52
+  - first:
+      213: -2092706181317831125
+    second: 29. SMCIColorTicks_53
+  - first:
+      213: -2872410067313686954
+    second: 29. SMCIColorTicks_54
+  - first:
+      213: 68932909581589756
+    second: 29. SMCIColorTicks_55
+  - first:
+      213: -8228123598301170792
+    second: 29. SMCIColorTicks_56
+  - first:
+      213: -6288596592977357936
+    second: 29. SMCIColorTicks_57
+  - first:
+      213: -2328852586608246416
+    second: 29. SMCIColorTicks_58
+  - first:
+      213: -6021816120620144145
+    second: 29. SMCIColorTicks_59
+  - first:
+      213: -4912024571326120111
+    second: 29. SMCIColorTicks_60
+  - first:
+      213: 3440281880764666602
+    second: 29. SMCIColorTicks_61
+  - first:
+      213: 4769097511742450537
+    second: 29. SMCIColorTicks_62
+  - first:
+      213: 334990699082985753
+    second: 29. SMCIColorTicks_63
+  - first:
+      213: -6129934477770961302
+    second: 29. SMCIColorTicks_64
+  - first:
+      213: 4890837296500350604
+    second: 29. SMCIColorTicks_65
+  - first:
+      213: -4900741772963014610
+    second: 29. SMCIColorTicks_66
+  - first:
+      213: -3880756770844198712
+    second: 29. SMCIColorTicks_67
+  - first:
+      213: 7120296486266993516
+    second: 29. SMCIColorTicks_68
+  - first:
+      213: -6920369533020398958
+    second: 29. SMCIColorTicks_69
+  - first:
+      213: -4957967842574373488
+    second: 29. SMCIColorTicks_70
+  - first:
+      213: 2708955477213301800
+    second: 29. SMCIColorTicks_71
+  - first:
+      213: 264431594436537069
+    second: 29. SMCIColorTicks_72
+  - first:
+      213: 1631870344164001708
+    second: 29. SMCIColorTicks_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_0
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 357
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9179e0621146c20800000000000000
+      internalID: 3198700490491107762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 360
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bd557fe341d3b60800000000000000
+      internalID: 7727354796307766077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 364
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d086179db349cf100800000000000000
+      internalID: 143152272941082637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 368
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e800f73f65344da0800000000000000
+      internalID: -5961581254935574302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 370
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41342d27b7b5ad10800000000000000
+      internalID: 2136315595621413197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 368
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62924e32079c55c40800000000000000
+      internalID: 5500524003378604326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 364
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd12e2262aa0cc960800000000000000
+      internalID: 7623479961779577307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_7
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 360
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dacc4b9d0d602bd0800000000000000
+      internalID: -2657003874941089063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 357
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc525957093ec9d0800000000000000
+      internalID: -2752199618550670125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 340
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a411e27bdd4ade0800000000000000
+      internalID: -1322688611718444462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 347
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dccea3dec910250800000000000000
+      internalID: 5909176728796581272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 351
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d9ac8f57cca710800000000000000
+      internalID: 1705957572062336725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 352
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d1b8d9c22190020800000000000000
+      internalID: 2308396266835090814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 347
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3007ef8948ffd1a60800000000000000
+      internalID: 7646548687312547843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 340
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a1a7cda0d99eee0800000000000000
+      internalID: -1231280353134896600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 326
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caae13b0e2c14290800000000000000
+      internalID: -7907825200352286007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 333
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ef273d6e965b410800000000000000
+      internalID: 1492215291654110726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 333
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05b9016d06dec6c0800000000000000
+      internalID: -4121121256046480115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_18
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 325
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f9b4b23eeed6a70800000000000000
+      internalID: 8821969904540032869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 310
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01a3165b1e721990800000000000000
+      internalID: -7416726980452441845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 318
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d93a130e69a989b0800000000000000
+      internalID: -5077340814919976487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_21
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 318
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0488a4e9c2639a4a0800000000000000
+      internalID: -6581669815163123648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 309
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d15fdcf55ec8ea0800000000000000
+      internalID: -5869064014730551965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 293
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4647b3ec52c69ad80800000000000000
+      internalID: -8238935133668019100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 301
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a482a7ac4f313de0800000000000000
+      internalID: -1355232414399298400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 301
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adaa716f867edb30800000000000000
+      internalID: 4314015851255344547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_26
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 293
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4b50d8ca2c034f0800000000000000
+      internalID: -850966283216898891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 275
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec98f59d81fcdbf70800000000000000
+      internalID: 9204740919048243662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 284
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93b1810371e0300800000000000000
+      internalID: 220138927118039458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_29
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 283
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b8f1b5f58d27a0800000000000000
+      internalID: -6400312205124259672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_30
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 266
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b4e5ca62a0c1b20800000000000000
+      internalID: 3106369004195695457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_31
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 274
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c8ee7b8f6eccd0800000000000000
+      internalID: -2535966895242688717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_32
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 264
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb63db15e6817310800000000000000
+      internalID: 1401049277661408181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 256
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74619ec8d53d3730800000000000000
+      internalID: 3980396850960229498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 191
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7d81353934ba70800000000000000
+      internalID: 8841754869062532937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 246
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9614d3eae534486b0800000000000000
+      internalID: -5295033187951623831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb369f6a6fb72600800000000000000
+      internalID: 443533552178838465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 170
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3267d973d3cdef0800000000000000
+      internalID: -82123384125250571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5b6d2ed2ed75d0800000000000000
+      internalID: -3063042727669441539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_39
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 159
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81ae5f998e8749d0800000000000000
+      internalID: -2790104722397290100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_40
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 158
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9436dbd98f5ec0800000000000000
+      internalID: -3575988001824268999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 149
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae90835bed2f09640800000000000000
+      internalID: 5084831017638300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_42
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 148
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9bac5db77726a0800000000000000
+      internalID: -6474074284134523953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 139
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e842f897f843d0800000000000000
+      internalID: -3222053297111637367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_44
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 138
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e13f292ae1f94f50800000000000000
+      internalID: 6866285094918631904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 129
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c639a4d7a1077b0800000000000000
+      internalID: -5228650041952736162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 119
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad94236500f58ee00800000000000000
+      internalID: 1074212966178638298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_47
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 129
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa02773bbbbe5720800000000000000
+      internalID: 2836911228053490429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 110
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac67a0081dde3070800000000000000
+      internalID: 8088145075963915433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_49
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 110
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e284e4160fdbb70800000000000000
+      internalID: 8916547137979297294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_50
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 119
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b9a56413d5add90800000000000000
+      internalID: -7072237798616818865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 101
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96446f25203b2b260800000000000000
+      internalID: 7111943584134612073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de92ba4725aab90800000000000000
+      internalID: -7229875590748574445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_53
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 92
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b265943d0d635f2e0800000000000000
+      internalID: -2092706181317831125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 101
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656038033462328d0800000000000000
+      internalID: -2872410067313686954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_55
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcd1f4bd16e4f000800000000000000
+      internalID: 68932909581589756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 77
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893ff3b8e25dfcd80800000000000000
+      internalID: -8228123598301170792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_57
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 76
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0935ad397ba6ab8a0800000000000000
+      internalID: -6288596592977357936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_58
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 84
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07147f849e04eafd0800000000000000
+      internalID: -2328852586608246416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_59
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 70
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe927bba4263e6ca0800000000000000
+      internalID: -6021816120620144145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 63
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fbd1a6dabf4dbb0800000000000000
+      internalID: -4912024571326120111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_61
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 57
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2d036a4265ebf20800000000000000
+      internalID: 3440281880764666602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_62
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 57
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bab9e4bec3f2240800000000000000
+      internalID: 4769097511742450537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_63
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 63
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911b6e5144026a400800000000000000
+      internalID: 334990699082985753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_64
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 69
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eca0cf1191eeaa0800000000000000
+      internalID: -6129934477770961302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_65
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e9220cb9ebfd340800000000000000
+      internalID: 4890837296500350604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_66
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 48
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e281f9e92511dfbb0800000000000000
+      internalID: -4900741772963014610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 44
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8b32e2748c42ac0800000000000000
+      internalID: -3880756770844198712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_68
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 41
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bf767edef50d260800000000000000
+      internalID: 7120296486266993516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_69
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 35
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a12ed4398e5ff90800000000000000
+      internalID: -6920369533020398958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_70
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 35
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d6b8ff382c13bb0800000000000000
+      internalID: -4957967842574373488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_71
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 44
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc5a367a4289520800000000000000
+      internalID: 2708955477213301800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_72
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 48
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaa7c552237ba300800000000000000
+      internalID: 264431594436537069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29. SMCIColorTicks_73
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 52
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7c3679e6195a610800000000000000
+      internalID: 1631870344164001708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

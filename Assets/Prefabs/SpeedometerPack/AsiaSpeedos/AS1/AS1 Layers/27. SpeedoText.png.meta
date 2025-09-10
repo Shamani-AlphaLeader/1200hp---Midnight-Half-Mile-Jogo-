@@ -1,0 +1,1343 @@
+fileFormatVersion: 2
+guid: ef1945356096f9543b5f27c8d57e2d8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6909768614755812005
+    second: 27. SpeedoText_0
+  - first:
+      213: 7651684495150162305
+    second: 27. SpeedoText_1
+  - first:
+      213: -3459597612334444451
+    second: 27. SpeedoText_2
+  - first:
+      213: -8745036698076262947
+    second: 27. SpeedoText_3
+  - first:
+      213: -1428201810330068834
+    second: 27. SpeedoText_4
+  - first:
+      213: 4744080622752760770
+    second: 27. SpeedoText_5
+  - first:
+      213: -6828562865194019183
+    second: 27. SpeedoText_6
+  - first:
+      213: -5946338226675489211
+    second: 27. SpeedoText_7
+  - first:
+      213: -5458323760003541038
+    second: 27. SpeedoText_8
+  - first:
+      213: 2616426293660658622
+    second: 27. SpeedoText_9
+  - first:
+      213: 5282781120484425080
+    second: 27. SpeedoText_10
+  - first:
+      213: 3213272108031654016
+    second: 27. SpeedoText_11
+  - first:
+      213: 2099206657104819110
+    second: 27. SpeedoText_12
+  - first:
+      213: 4111392447607971926
+    second: 27. SpeedoText_13
+  - first:
+      213: 6662753227098739478
+    second: 27. SpeedoText_14
+  - first:
+      213: -2663399165228155716
+    second: 27. SpeedoText_15
+  - first:
+      213: -7120097047013691064
+    second: 27. SpeedoText_16
+  - first:
+      213: 6091089378082375507
+    second: 27. SpeedoText_17
+  - first:
+      213: -1587212826480399679
+    second: 27. SpeedoText_18
+  - first:
+      213: 8052703804553942126
+    second: 27. SpeedoText_19
+  - first:
+      213: 6195571078086016277
+    second: 27. SpeedoText_20
+  - first:
+      213: 8266472693205042898
+    second: 27. SpeedoText_21
+  - first:
+      213: -4808069966087158649
+    second: 27. SpeedoText_22
+  - first:
+      213: 2743729471379258458
+    second: 27. SpeedoText_23
+  - first:
+      213: 2226100267167965497
+    second: 27. SpeedoText_24
+  - first:
+      213: -5597435346181665420
+    second: 27. SpeedoText_25
+  - first:
+      213: -2551925127304206597
+    second: 27. SpeedoText_26
+  - first:
+      213: -1712933840369424314
+    second: 27. SpeedoText_27
+  - first:
+      213: -7757348334947686054
+    second: 27. SpeedoText_28
+  - first:
+      213: -8134291887445713767
+    second: 27. SpeedoText_29
+  - first:
+      213: 4815470707557711749
+    second: 27. SpeedoText_30
+  - first:
+      213: -4711374525008694696
+    second: 27. SpeedoText_31
+  - first:
+      213: -1963578112429837448
+    second: 27. SpeedoText_32
+  - first:
+      213: 5211282146888178136
+    second: 27. SpeedoText_33
+  - first:
+      213: -7672765041736114947
+    second: 27. SpeedoText_34
+  - first:
+      213: -6040757011803806718
+    second: 27. SpeedoText_35
+  - first:
+      213: -527283342332843303
+    second: 27. SpeedoText_36
+  - first:
+      213: -6061497652488990951
+    second: 27. SpeedoText_37
+  - first:
+      213: 6388735892504197663
+    second: 27. SpeedoText_38
+  - first:
+      213: 6327374036404401032
+    second: 27. SpeedoText_39
+  - first:
+      213: 8393037365993031376
+    second: 27. SpeedoText_40
+  - first:
+      213: -8130184751967073109
+    second: 27. SpeedoText_41
+  - first:
+      213: 3597734211323257786
+    second: 27. SpeedoText_42
+  - first:
+      213: -3022480149483153977
+    second: 27. SpeedoText_43
+  - first:
+      213: 6123957920880579116
+    second: 27. SpeedoText_44
+  - first:
+      213: 41356044204986971
+    second: 27. SpeedoText_45
+  - first:
+      213: 7642547940463864706
+    second: 27. SpeedoText_46
+  - first:
+      213: -3913920607126788098
+    second: 27. SpeedoText_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 27. SpeedoText_0
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 410
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d365ded029b10a0800000000000000
+      internalID: -6909768614755812005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 397
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1812aca028e303a60800000000000000
+      internalID: 7651684495150162305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 397
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5014032d4a0dffc0800000000000000
+      internalID: -3459597612334444451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 397
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddc86fc47363a680800000000000000
+      internalID: -8745036698076262947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 413
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d4bb35020e2ce0800000000000000
+      internalID: -1428201810330068834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 402
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c30ef0f03c56d140800000000000000
+      internalID: 4744080622752760770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 381
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196dfadd0421c31a0800000000000000
+      internalID: -6828562865194019183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 383
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5466eac43ec5a7da0800000000000000
+      internalID: -5946338226675489211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 388
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71aefa5732044b0800000000000000
+      internalID: -5458323760003541038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 390
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba2a60ad96f4420800000000000000
+      internalID: 2616426293660658622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 388
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d3d909075305940800000000000000
+      internalID: 5282781120484425080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088b5e525f5d79c20800000000000000
+      internalID: 3213272108031654016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 347
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a33ed22551e12d10800000000000000
+      internalID: 2099206657104819110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 345
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650a5e3e5a99e0930800000000000000
+      internalID: 4111392447607971926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 360
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613de4f52cad67c50800000000000000
+      internalID: 6662753227098739478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 353
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcf08d0294b90bd0800000000000000
+      internalID: -2663399165228155716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 347
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f07aa575503d90800000000000000
+      internalID: -7120097047013691064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 350
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35741c37485e78450800000000000000
+      internalID: 6091089378082375507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 340
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca21bef75619f9e0800000000000000
+      internalID: -1587212826480399679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 334
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64dfd7f173f0cf60800000000000000
+      internalID: 8052703804553942126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_20
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 323
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d300ae1171bf550800000000000000
+      internalID: 6195571078086016277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_21
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 293
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d604f7ed1968b270800000000000000
+      internalID: 8266472693205042898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_22
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 293
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784862017dd464db0800000000000000
+      internalID: -4808069966087158649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cb455da6fa31620800000000000000
+      internalID: 2743729471379258458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e2fa0662b4ee10800000000000000
+      internalID: 2226100267167965497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 240
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d40a9853ae152b0800000000000000
+      internalID: -5597435346181665420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 228
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6a3ad0e9db59cd0800000000000000
+      internalID: -2551925127304206597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 229
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e8096fbf6a38e0800000000000000
+      internalID: -1712933840369424314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 241
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59a9702acc585490800000000000000
+      internalID: -7757348334947686054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_29
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 221
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cd47d20a03d1f80800000000000000
+      internalID: -8134291887445713767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 204
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb646581df3d240800000000000000
+      internalID: 4815470707557711749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 165
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8523809d4d5dd9eb0800000000000000
+      internalID: -4711374525008694696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_32
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 170
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87333e73c18ffb4e0800000000000000
+      internalID: -1963578112429837448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 181
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9da958081325840800000000000000
+      internalID: 5211282146888178136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 144
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc984ab8dcd48590800000000000000
+      internalID: -7672765041736114947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_35
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 158
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ebf8c08bea2ca0800000000000000
+      internalID: -6040757011803806718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 128
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da25440896bea8f0800000000000000
+      internalID: -527283342332843303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_37
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 117
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f8780100c31eba0800000000000000
+      internalID: -6061497652488990951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_38
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 113
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a308cf17959a850800000000000000
+      internalID: 6388735892504197663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 101
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883f9e889295fc750800000000000000
+      internalID: 6327374036404401032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_40
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 97
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d64892240f0a7470800000000000000
+      internalID: 8393037365993031376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_41
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 84
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac84bc2b08cb2f80800000000000000
+      internalID: -8130184751967073109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 58
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3613e1438bde130800000000000000
+      internalID: 3597734211323257786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 76
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5136d515efd06d0800000000000000
+      internalID: -3022480149483153977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_44
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 55
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22d68d684bacf450800000000000000
+      internalID: 6123957920880579116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_45
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 58
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5257246a1de29000800000000000000
+      internalID: 41356044204986971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_46
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 37
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bed322cd8cf0a60800000000000000
+      internalID: 7642547940463864706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27. SpeedoText_47
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 50
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef76025d1f5fea9c0800000000000000
+      internalID: -3913920607126788098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

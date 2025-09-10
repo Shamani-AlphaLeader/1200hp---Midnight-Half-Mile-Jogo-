@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 8bde8c292ba24ca49aeb24f25ea51285
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1958250706134450439
+    second: 4. MKPHSticks_0
+  - first:
+      213: -7154622236037674199
+    second: 4. MKPHSticks_1
+  - first:
+      213: 6786511420798711382
+    second: 4. MKPHSticks_2
+  - first:
+      213: 9205410839420275642
+    second: 4. MKPHSticks_3
+  - first:
+      213: -5286019250915287657
+    second: 4. MKPHSticks_4
+  - first:
+      213: -1612369905327580639
+    second: 4. MKPHSticks_5
+  - first:
+      213: -1197568959640479154
+    second: 4. MKPHSticks_6
+  - first:
+      213: 8647831926318151568
+    second: 4. MKPHSticks_7
+  - first:
+      213: 4964210141435708816
+    second: 4. MKPHSticks_8
+  - first:
+      213: -6354801465581361480
+    second: 4. MKPHSticks_9
+  - first:
+      213: -15625430756344801
+    second: 4. MKPHSticks_10
+  - first:
+      213: -259145964753596854
+    second: 4. MKPHSticks_11
+  - first:
+      213: 2836358298489693303
+    second: 4. MKPHSticks_12
+  - first:
+      213: -5294144887410168353
+    second: 4. MKPHSticks_13
+  - first:
+      213: 1943635728999395430
+    second: 4. MKPHSticks_14
+  - first:
+      213: -7513366687148467481
+    second: 4. MKPHSticks_15
+  - first:
+      213: -3406182289961378791
+    second: 4. MKPHSticks_16
+  - first:
+      213: 6515740160769423566
+    second: 4. MKPHSticks_17
+  - first:
+      213: -4264416264860489183
+    second: 4. MKPHSticks_18
+  - first:
+      213: 4070498458557927862
+    second: 4. MKPHSticks_19
+  - first:
+      213: 2971398422795891383
+    second: 4. MKPHSticks_20
+  - first:
+      213: 9118265527720274726
+    second: 4. MKPHSticks_21
+  - first:
+      213: 683761053791016940
+    second: 4. MKPHSticks_22
+  - first:
+      213: 3702305898063126794
+    second: 4. MKPHSticks_23
+  - first:
+      213: 6789375011464080187
+    second: 4. MKPHSticks_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4. MKPHSticks_0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 259
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7014d4854aa1d2b10800000000000000
+      internalID: 1958250706134450439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 265
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b0ddeabfca5bc90800000000000000
+      internalID: -7154622236037674199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 269
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b6d44e288e2e50800000000000000
+      internalID: 6786511420798711382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 272
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb0d27d26030cf70800000000000000
+      internalID: 9205410839420275642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 271
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d51517f7944a6b0800000000000000
+      internalID: -5286019250915287657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 270
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a5b622d16bf99e0800000000000000
+      internalID: -1612369905327580639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 266
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a589e4061616fe0800000000000000
+      internalID: -1197568959640479154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 261
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b97d9155430870800000000000000
+      internalID: 8647831926318151568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 249
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095caa672da64e440800000000000000
+      internalID: 4964210141435708816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 253
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b624e97cb53fc7a0800000000000000
+      internalID: -6354801465581361480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 245
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3e46e0cc78cff0800000000000000
+      internalID: -15625430756344801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 236
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ec2e93e14576cf0800000000000000
+      internalID: -259145964753596854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_12
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 236
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a53548d4cc5720800000000000000
+      internalID: 2836358298489693303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 227
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd6774464b6786b0800000000000000
+      internalID: -5294144887410168353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 220
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66034cfc56e29fa10800000000000000
+      internalID: 1943635728999395430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 216
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea13493ec82bb790800000000000000
+      internalID: -7513366687148467481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 205
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c10a6014fcab0d0800000000000000
+      internalID: -3406182289961378791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 207
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87863872f8c6a50800000000000000
+      internalID: 6515740160769423566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 187
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aa79e3000c1d4c0800000000000000
+      internalID: -4264416264860489183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 195
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1de1918c05d7830800000000000000
+      internalID: 4070498458557927862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 184
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b7e45f178c3920800000000000000
+      internalID: 2971398422795891383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 145
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62be473df269a8e70800000000000000
+      internalID: 9118265527720274726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 170
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7d5724e053d7900800000000000000
+      internalID: 683761053791016940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 146
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01e2ef399b316330800000000000000
+      internalID: 3702305898063126794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4. MKPHSticks_24
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 132
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bea3de994b83e50800000000000000
+      internalID: 6789375011464080187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
