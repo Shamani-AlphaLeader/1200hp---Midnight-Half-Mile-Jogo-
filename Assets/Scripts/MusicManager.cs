@@ -1,15 +1,14 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using System.Collections;
 
 public class MusicManager : MonoBehaviour
 {
     [Header("Playlist")]
-    public AudioClip[] playlist;     // lista de músicas
-    public int startTrackIndex = 0;  // faixa inicial escolhida
+    public AudioClip[] playlist;
 
-    [Header("Configuração")]
-    public float fadeDuration = 1.5f; // tempo de fade in/out
-    public float volume = 0.7f;       // volume padrão (0 a 1)
+    [Header("ConfiguraÃ§Ã£o")]
+    public float fadeDuration = 1.5f;
+    public float volume = 0.7f;
 
     private int currentTrack = 0;
     private AudioSource audioSource;
@@ -17,11 +16,10 @@ public class MusicManager : MonoBehaviour
 
     void Awake()
     {
-        // garante que só exista um MusicManager
         if (instance == null)
         {
             instance = this;
-            DontDestroyOnLoad(gameObject); // mantém entre cenas
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -34,27 +32,26 @@ public class MusicManager : MonoBehaviour
             audioSource = gameObject.AddComponent<AudioSource>();
 
         audioSource.loop = false;
-        audioSource.volume = 0f; // começa silencioso
+        audioSource.volume = 0f;
     }
 
     void Start()
     {
         if (playlist.Length > 0)
         {
-            currentTrack = startTrackIndex;
+            // ðŸŽ² Define faixa inicial aleatÃ³ria
+            currentTrack = Random.Range(0, playlist.Length);
             StartCoroutine(FadeInTrack(currentTrack));
         }
     }
 
     void Update()
     {
-        // troca automática quando a música acabar
         if (!audioSource.isPlaying && playlist.Length > 0)
         {
             NextTrack();
         }
 
-        // botão de pular música (teste no teclado)
         if (Input.GetKeyDown(KeyCode.N))
         {
             NextTrack();
@@ -65,7 +62,7 @@ public class MusicManager : MonoBehaviour
     {
         currentTrack++;
         if (currentTrack >= playlist.Length)
-            currentTrack = 0; // reinicia playlist
+            currentTrack = 0;
 
         StartCoroutine(FadeOutInTrack(currentTrack));
     }
@@ -89,7 +86,6 @@ public class MusicManager : MonoBehaviour
 
     private IEnumerator FadeOutInTrack(int nextIndex)
     {
-        // fade out
         float elapsed = 0f;
         float startVolume = audioSource.volume;
         while (elapsed < fadeDuration)
@@ -101,7 +97,6 @@ public class MusicManager : MonoBehaviour
         audioSource.volume = 0f;
         audioSource.Stop();
 
-        // fade in próxima faixa
         yield return FadeInTrack(nextIndex);
     }
 }
