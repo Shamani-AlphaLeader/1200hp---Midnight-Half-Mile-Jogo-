@@ -11268,6 +11268,7 @@ MonoBehaviour:
   - {fileID: 1968962246}
   - {fileID: 206604069}
   - {fileID: 608253406}
+  - {fileID: 0}
   raceTimer: {fileID: 642605179}
   startTolerance: 0.2
 --- !u!1 &1450274053
@@ -13855,7 +13856,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isPlayer: 1
-  acceleration: 14
+  acceleration: 13.4
   maxSpeed: 303
   gearRatios:
   - 2.8
