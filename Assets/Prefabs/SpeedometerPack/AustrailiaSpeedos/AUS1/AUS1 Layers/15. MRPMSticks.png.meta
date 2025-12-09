@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      15. MRPMSticks_0: -781495540571742738
+      15. MRPMSticks_1: -9207759154782306688
+      15. MRPMSticks_2: 1312680605893894598
+      15. MRPMSticks_3: 5473408973040884901
+      15. MRPMSticks_4: 4361780562369643594
+      15. MRPMSticks_5: -5966382259240642237
+      15. MRPMSticks_6: 1092331084880920087
+      15. MRPMSticks_7: -5422727992902084035
+      15. MRPMSticks_8: 1302625312962654719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

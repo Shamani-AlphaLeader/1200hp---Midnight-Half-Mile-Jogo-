@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      9. BigLineSpeed_0: 4537158398138245387
+      9. BigLineSpeed_1: 8812669363648981269
+      9. BigLineSpeed_2: -1628393818704893433
+      9. BigLineSpeed_3: -1763475188243253848
+      9. BigLineSpeed_4: -1444694685681627848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

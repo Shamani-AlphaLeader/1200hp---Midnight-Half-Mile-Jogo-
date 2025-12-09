@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20. RPMRedline_0: -6033452338782469095
+      20. RPMRedline_1: -1160970249054839449
+      20. RPMRedline_2: 3197539924776285029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

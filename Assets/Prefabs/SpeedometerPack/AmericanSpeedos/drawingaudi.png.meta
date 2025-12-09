@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      drawingaudi_0: -3505542108331426644
+      drawingaudi_1: -5484866996311039017
+      drawingaudi_10: 8333195167783587338
+      drawingaudi_2: -4100940902487878523
+      drawingaudi_3: 7356102665733811572
+      drawingaudi_4: -5745114392293559988
+      drawingaudi_5: 5905510110779149176
+      drawingaudi_6: -2738455328741426435
+      drawingaudi_7: 3025105317278421938
+      drawingaudi_8: -7119432163319304154
+      drawingaudi_9: 9148740142377665775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

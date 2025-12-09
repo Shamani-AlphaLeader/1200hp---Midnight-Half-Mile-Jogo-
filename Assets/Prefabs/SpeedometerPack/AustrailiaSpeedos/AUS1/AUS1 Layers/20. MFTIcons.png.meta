@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      20. MFTIcons_0: 5009691064832504711
+      20. MFTIcons_1: 9214539358520791011
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

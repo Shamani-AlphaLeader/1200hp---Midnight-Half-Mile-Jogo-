@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      41. ISMLightsandDeco_0: 2921943777789252760
+      41. ISMLightsandDeco_1: -1682002004258654409
+      41. ISMLightsandDeco_2: -8686277697445713039
+      41. ISMLightsandDeco_3: -3729153771011398723
+      41. ISMLightsandDeco_4: -2678566026447697914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      42. Needles (Immovable)_0: 8941313515957965127
+      42. Needles (Immovable)_1: 3801381721179036620
+      42. Needles (Immovable)_2: -2078341273878791576
+      42. Needles (Immovable)_3: 2784505850167085095
+      42. Needles (Immovable)_4: -6904541352517425580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

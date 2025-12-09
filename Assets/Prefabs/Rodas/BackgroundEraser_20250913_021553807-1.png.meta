@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BackgroundEraser_20250913_021553807-1_0: -1486927190395679547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

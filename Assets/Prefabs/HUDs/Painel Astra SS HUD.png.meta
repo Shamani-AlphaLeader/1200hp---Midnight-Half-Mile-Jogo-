@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Painel Astra SS HUD_0: -2496337503412101311
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

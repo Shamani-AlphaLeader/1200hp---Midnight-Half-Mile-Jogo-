@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      audiNumbers_0: 4033085532770730446
+      audiNumbers_1: 8709445730310000275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

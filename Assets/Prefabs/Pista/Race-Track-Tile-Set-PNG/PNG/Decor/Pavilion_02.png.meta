@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pavilion_02_0: 2654847735603836211
+      Pavilion_02_1: -8356151770840454121
+      Pavilion_02_2: -9021961584942850750
+      Pavilion_02_3: -6444874709035163805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

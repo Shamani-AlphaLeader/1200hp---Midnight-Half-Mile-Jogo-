@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AUS1GasTemp_0: -7560827695501347052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

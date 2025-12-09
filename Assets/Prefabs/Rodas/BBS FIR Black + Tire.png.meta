@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BBS FIR Black + Tire_0: 4690739049299516100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

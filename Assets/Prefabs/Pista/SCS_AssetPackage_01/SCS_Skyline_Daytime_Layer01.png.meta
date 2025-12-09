@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SCS_Skyline_Daytime_Layer01_0: -3418738237582907686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

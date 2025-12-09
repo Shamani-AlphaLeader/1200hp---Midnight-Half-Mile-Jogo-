@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      5. ICIcons_0: 8301965167773628796
+      5. ICIcons_1: 5680023138904500985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

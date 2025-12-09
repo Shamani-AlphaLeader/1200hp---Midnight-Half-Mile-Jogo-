@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SCS_Building_01_Blue_Nighttime_01_0: -8629796520526063645
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

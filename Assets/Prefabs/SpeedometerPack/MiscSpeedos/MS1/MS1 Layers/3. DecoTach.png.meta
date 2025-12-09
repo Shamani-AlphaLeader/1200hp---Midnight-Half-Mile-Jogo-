@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      3. DecoTach_0: -704783705480940330
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

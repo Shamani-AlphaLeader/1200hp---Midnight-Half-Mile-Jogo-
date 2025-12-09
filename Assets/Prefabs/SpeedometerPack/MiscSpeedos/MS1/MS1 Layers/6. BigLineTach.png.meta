@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      6. BigLineTach_0: 9063676029972824232
+      6. BigLineTach_1: 4143453953364674663
+      6. BigLineTach_2: -1451797214402409205
+      6. BigLineTach_3: 958696166726077692
+      6. BigLineTach_4: -5488535314525882755
+      6. BigLineTach_5: -1841970099119418913
+      6. BigLineTach_6: 931467093295236055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

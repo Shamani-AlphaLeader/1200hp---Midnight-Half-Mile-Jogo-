@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2. DecoSpeed (MPH)_0: 5688277776798838377
+      2. DecoSpeed (MPH)_1: 4051046504678111303
+      2. DecoSpeed (MPH)_2: -4023809031383042431
+      2. DecoSpeed (MPH)_3: -349547024213396643
+      2. DecoSpeed (MPH)_4: -4454294045422961368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Racing_Lights_0: 9124154368865761076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

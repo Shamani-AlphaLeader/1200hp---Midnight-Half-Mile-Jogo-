@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      7. SmallLineTach_0: -3700514882344845475
+      7. SmallLineTach_1: -1266951452918706769
+      7. SmallLineTach_2: 4709325463006093409
+      7. SmallLineTach_3: 5963633392228936329
+      7. SmallLineTach_4: -3981648680607351156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

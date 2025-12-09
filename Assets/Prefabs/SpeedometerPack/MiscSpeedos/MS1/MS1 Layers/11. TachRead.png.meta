@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      11. TachRead_0: -280598989783979540
+      11. TachRead_1: 7599712028972070649
+      11. TachRead_2: 1946205929135656818
+      11. TachRead_3: -6831322879852055739
+      11. TachRead_4: 1368561230182536025
+      11. TachRead_5: -6184186116398355684
+      11. TachRead_6: -2475664835309018070
+      11. TachRead_7: 1096144202455467988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

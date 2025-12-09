@@ -935,7 +935,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      6. DigitalReadoutText_0: 8469570705265662917
+      6. DigitalReadoutText_1: -3364109101935044982
+      6. DigitalReadoutText_10: 5017592175156441355
+      6. DigitalReadoutText_11: 9051524169366388684
+      6. DigitalReadoutText_12: -4906653000938166192
+      6. DigitalReadoutText_13: 5639955169152997957
+      6. DigitalReadoutText_14: -7213515107349040929
+      6. DigitalReadoutText_15: -4426045327949707266
+      6. DigitalReadoutText_16: -3602650779731349144
+      6. DigitalReadoutText_17: -5636949448170729028
+      6. DigitalReadoutText_18: -1119707289479998982
+      6. DigitalReadoutText_19: -2084505588505586366
+      6. DigitalReadoutText_2: -6641945783206748268
+      6. DigitalReadoutText_20: -3785316728326896894
+      6. DigitalReadoutText_21: 593946575142895748
+      6. DigitalReadoutText_22: -850452594875316477
+      6. DigitalReadoutText_23: 8148620498922891207
+      6. DigitalReadoutText_24: 7415233526626144356
+      6. DigitalReadoutText_25: 5412536406047261847
+      6. DigitalReadoutText_26: 8976533283565570377
+      6. DigitalReadoutText_27: -1170379555979570486
+      6. DigitalReadoutText_28: -1410264165757806671
+      6. DigitalReadoutText_29: 1424002769867439549
+      6. DigitalReadoutText_3: -518307127709041618
+      6. DigitalReadoutText_30: -994456193461414496
+      6. DigitalReadoutText_31: -5959749364267660406
+      6. DigitalReadoutText_4: 95768097774258494
+      6. DigitalReadoutText_5: 4068362200113621904
+      6. DigitalReadoutText_6: -7204732060223725330
+      6. DigitalReadoutText_7: 2821035870649079863
+      6. DigitalReadoutText_8: 6750189607446434818
+      6. DigitalReadoutText_9: 6136249990129923065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

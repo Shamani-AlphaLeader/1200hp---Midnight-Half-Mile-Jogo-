@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      14. GasSSL_0: 11422966979732795
+      14. GasSSL_1: 473959190734126232
+      14. GasSSL_10: 784782125631208463
+      14. GasSSL_2: 1252283534874577480
+      14. GasSSL_3: -6462842263598703756
+      14. GasSSL_4: 6035098492305642729
+      14. GasSSL_5: -9134236569659965937
+      14. GasSSL_6: 4009755404798229526
+      14. GasSSL_7: 1874628336356027868
+      14. GasSSL_8: 5414697291031520837
+      14. GasSSL_9: -5236172865173300205
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

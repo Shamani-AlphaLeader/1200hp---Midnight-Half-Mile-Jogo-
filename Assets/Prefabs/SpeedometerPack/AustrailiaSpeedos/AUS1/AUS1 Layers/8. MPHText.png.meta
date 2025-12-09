@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      8. MPHText_0: 7581037554431604551
+      8. MPHText_1: -914462162980079580
+      8. MPHText_10: -8710109270083269029
+      8. MPHText_11: 1862653727253274540
+      8. MPHText_12: -28117588058145835
+      8. MPHText_13: 2885982132541789182
+      8. MPHText_14: -4825808565587660126
+      8. MPHText_2: -6803122102022684715
+      8. MPHText_3: 5639745713656105696
+      8. MPHText_4: 1130777177738212809
+      8. MPHText_5: 5914234867057828852
+      8. MPHText_6: 6661842603262380010
+      8. MPHText_7: 4413051764398398872
+      8. MPHText_8: 5595212622405304705
+      8. MPHText_9: 6039505404871044124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

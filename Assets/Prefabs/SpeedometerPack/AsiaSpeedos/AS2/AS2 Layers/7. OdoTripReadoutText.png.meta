@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      7. OdoTripReadoutText_0: 4783844728594404439
+      7. OdoTripReadoutText_1: -2556854547012331741
+      7. OdoTripReadoutText_2: 455356024554534430
+      7. OdoTripReadoutText_3: -2826710486211724162
+      7. OdoTripReadoutText_4: 6229580005368236861
+      7. OdoTripReadoutText_5: -3222544615417998938
+      7. OdoTripReadoutText_6: 5197020768148493916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

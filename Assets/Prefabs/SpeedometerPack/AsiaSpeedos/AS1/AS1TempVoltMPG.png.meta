@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AS1TempVoltMPG_0: 7780299620980402268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

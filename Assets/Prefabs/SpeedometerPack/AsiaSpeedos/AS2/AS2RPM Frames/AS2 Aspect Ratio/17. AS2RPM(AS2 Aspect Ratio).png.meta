@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      17. AS2RPM(AS2 Aspect Ratio)_0: 8418020035848874640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

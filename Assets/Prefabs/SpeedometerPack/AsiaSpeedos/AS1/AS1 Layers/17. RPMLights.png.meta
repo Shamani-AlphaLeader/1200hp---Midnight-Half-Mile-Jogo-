@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      17. RPMLights_0: -3839343076243319590
+      17. RPMLights_1: 1740648611650865886
+      17. RPMLights_2: -8203790346134414600
+      17. RPMLights_3: -7858932340920959141
+      17. RPMLights_4: -5619590224277279583
+      17. RPMLights_5: -3765441068128982253
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

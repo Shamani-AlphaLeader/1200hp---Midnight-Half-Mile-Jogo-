@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2. SpeedoHolders_0: 474089999964428344
+      2. SpeedoHolders_1: -8346092660692114581
+      2. SpeedoHolders_2: -7657544501258972605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

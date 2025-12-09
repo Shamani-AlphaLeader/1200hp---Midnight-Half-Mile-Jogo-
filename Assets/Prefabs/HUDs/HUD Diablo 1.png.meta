@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HUD Diablo 1_0: -1684970768994735054
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

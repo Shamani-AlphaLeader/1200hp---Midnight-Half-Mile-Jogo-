@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Weld AlumaStar + DragTire_0: 2088884441287223081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -585,7 +585,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2. GaugeInstruments_0: 8573356116272098453
+      2. GaugeInstruments_1: 9009715018047751138
+      2. GaugeInstruments_10: 6041200251405497885
+      2. GaugeInstruments_11: 1624202808811864132
+      2. GaugeInstruments_12: 6116158245924280744
+      2. GaugeInstruments_13: -3003910540948670013
+      2. GaugeInstruments_14: 2445764742561585667
+      2. GaugeInstruments_15: -6165388697437302644
+      2. GaugeInstruments_16: 1162658054920213592
+      2. GaugeInstruments_17: 3972323635660093524
+      2. GaugeInstruments_2: 5727913363370797280
+      2. GaugeInstruments_3: 1908655847785812633
+      2. GaugeInstruments_4: 8872632133067931268
+      2. GaugeInstruments_5: -7123059295420031792
+      2. GaugeInstruments_6: -4273539541059300938
+      2. GaugeInstruments_7: 3035297121018712252
+      2. GaugeInstruments_8: -8480149128068806014
+      2. GaugeInstruments_9: -1231359657500227081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

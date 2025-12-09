@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mustang full_0: 2161594082026839980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

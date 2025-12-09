@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SCS_Building_03_Green_Daytime_01_0: 2625745430253045854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

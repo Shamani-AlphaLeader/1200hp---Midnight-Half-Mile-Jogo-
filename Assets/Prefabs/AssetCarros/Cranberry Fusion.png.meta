@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cranberry Fusion_0: -9004262121296878527
+      Cranberry Fusion_1: 8558391903729341393
+      Cranberry Fusion_2: 9191872972188743645
+      Cranberry Fusion_3: 7801919584182103483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

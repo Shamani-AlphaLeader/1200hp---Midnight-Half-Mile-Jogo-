@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2. DecoSpeed (KPH)_0: 3931589752789666928
+      2. DecoSpeed (KPH)_1: 6732904639504133409
+      2. DecoSpeed (KPH)_2: -573752696559549710
+      2. DecoSpeed (KPH)_3: -4213780668739240700
+      2. DecoSpeed (KPH)_4: 2058956569052054796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      3. ICColor_0: 9027023199184537295
+      3. ICColor_1: 5031928372069475511
+      3. ICColor_2: -3481182929063316939
+      3. ICColor_3: -5026289168111730423
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
